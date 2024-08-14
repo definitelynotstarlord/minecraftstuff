@@ -1,3 +1,6 @@
+// While this is generic as of now, it is intended to be used with my modpack MAGNUM OPUS
+// Just want to remove loot from all loot tables that would "ruin" the progression of armor and equipment
+
 import crafttweaker.api.loot.modifier.CommonLootModifiers;
 import crafttweaker.api.loot.condition.LootConditions;
 import crafttweaker.api.loot.condition.LootTableIdLootCondition;
