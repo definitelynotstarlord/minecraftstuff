@@ -1,3 +1,5 @@
+// I probably won't use this for anything but spent the time learning how to modify these items
+
 import crafttweaker.api.entity.attribute.AttributeOperation;
 import crafttweaker.api.item.IItemStack;
 
