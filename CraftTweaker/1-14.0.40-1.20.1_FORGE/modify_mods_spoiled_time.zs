@@ -1,3 +1,5 @@
+// This will modify all the foods in the mod to turn into rotten flesh after "120". I don't remember if 120 is defaulttime but I think so.
+
 import mods.spoiled.SpoilingManager;
 import crafttweaker.api.item.IItemStack;
 
