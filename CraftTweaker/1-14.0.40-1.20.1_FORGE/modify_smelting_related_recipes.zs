@@ -1,4 +1,5 @@
 // This only works with both Realistic Forging and Clayworks mods...
+// Making this for my modpack, MAGNUM OPUS
 
 import crafttweaker.api.recipe.type.SmeltingRecipe;
 
