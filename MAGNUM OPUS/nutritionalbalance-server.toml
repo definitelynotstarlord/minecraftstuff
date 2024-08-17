@@ -119,15 +119,37 @@
 		vegetables_item_list = [
 			"#minecraft:flowers", 
 			"#forge:vegetables", 
-			"#nourish:vegetables"
+			"#nourish:vegetables",
+			"#diet:vegetables",
+			"#diet:veggies",
+			"crabbersdelight:jar_of_pickles",
+			"oceansdelight:shrimp_skewer",
+			"oceansdelight:bisque",
+			"oceansdelight:clam_chowder",
+			"farmersdelight:barbecue_stick",
+			"farmersdelight:mushroom_rice",
+			"crabbersdelight:seafood_gumbo",
+			"crabbersdelight:shrimp_skewer"
 		]
 		#List of carbohydrates.
 		carbs_item_list = [
 			"#forge:carbs", 
 			"#forge:grain", 
 			"#nourish:carbohydrates", 
+			"#diet:carbohydrates",
+			"#diet:carbs",
 			"corn_delight:cornbread_batter", 
-			"corn_delight:corn"
+			"corn_delight:corn",
+			"corn_delight:nachos_bowl",
+			"corn_delight:nachos_block",
+			"corn_delight:cornbread:stuffing",
+			"oceansdelight:bisque",
+			"oceansdelight:clam_chowder",
+			"farmersdelight:rice",
+			"farmersdelight:fried_rice",
+			"farmersdelight:mushroom_rice",
+			"farmersdelight:cooked_rice",
+			"crabbersdelight:seafood_gumbo"
 		]
 		#List of simple sugars.
 		sugars_item_list = [
@@ -138,7 +160,9 @@
 			"vinery:savanna_grapes_red", 
 			"vinery:savanna_grapes_white", 
 			"vinery:taiga_grapes_red", 
-			"vinery:taiga_grapes_white"
+			"vinery:taiga_grapes_white",
+			"vinery:jungle_grapes_red", 
+			"vinery:jungle_grapes_white"
 		]
 		#List of proteins.
 		protein_item_list = [
@@ -147,19 +171,37 @@
 			"#forge:yogurt", 
 			"#forge:nuts", 
 			"#nourish:protein", 
-			"corn_delight:nachos_bowl"
+			"#diet:proteins",
+			"corn_delight:nachos_bowl",
+			"corn_delight:nachos_bowl",
+			"corn_delight:nachos_block",
+			"corn_delight:cornbread:stuffing",
+			"oceansdelight:fish_stick",
+			"oceansdelight:shrimp_skewer",
+			"oceansdelight:bisque",
+			"oceansdelight:clam_chowder",
+			"oceansdelight:tentacles",
+			"oceansdelight:cut_tentacles",
+			"farmersdelight:fried_rice",
+			"farmersdelight:barbecue_stick",
+			"crabbersdelight:seafood_gumbo",
+			"crabbersdelight:fish_stick",
+			"crabbersdelight:shrimp_skewer",
+			"naturalist:cooked_egg"
 		]
 		#List of fruits.
 		fruits_item_list = [
 			"#forge:fruits", 
 			"#forge:fruits/berry", 
-			"#nourish:fruit", 
+			"nourish:fruit", 
 			"vinery:cherry", 
 			"vinery:red_grape", 
 			"vinery:white_grape", 
 			"vinery:savanna_grapes_red", 
 			"vinery:savanna_grapes_white", 
 			"vinery:taiga_grapes_red", 
-			"vinery:taiga_grapes_white"
+			"vinery:taiga_grapes_white",
+			"vinery:jungle_grapes_red", 
+			"vinery:jungle_grapes_white"
 		]
 
